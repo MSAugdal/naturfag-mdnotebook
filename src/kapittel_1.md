@@ -36,3 +36,10 @@ C)  Svarte klær kjennes varmere på kroppen enn hvite klær når du er ute i so
 Hvordan vil du gå fram for å teste de hypotesene du har satt opp?
 
 #### *Besvarelse*
+A) salting av veier bidrar til smelting av is og snø på veier ved at det senker frysetemperaturen for vann, noe som gjør at is og snø smelter ved en høyere temperatur enn normalt
+
+B) Brusflasken vil sprekke, ettersom den nesten er helt full av væske (vann), som ekspanderer ettersom den fryser. Når all væsken er gjort om til is, vil den ta opp mer plass en flasken er i stand til
+å romme, som fører til at flasken sprekker.
+
+C) Svarte klær kjennes varmere ut på kroppen enn hvite klær i solen, fordi svart absorber mer lys enne hvit, som gjør at de svarte klærene samler mer varmeenergi enn hvit, ettersom hvit er bedre
+på å reflektere lys enn svart.
