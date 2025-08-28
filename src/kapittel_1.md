@@ -43,3 +43,25 @@ B) Brusflasken vil sprekke, ettersom den nesten er helt full av væske (vann), s
 
 C) Svarte klær kjennes varmere ut på kroppen enn hvite klær i solen, fordi svart absorber mer lys enne hvit, som gjør at de svarte klærene samler mer varmeenergi enn hvit, ettersom hvit er bedre
 på å reflektere lys enn svart.
+
+For å teste hypotese A ville jeg funnet frem 2 like isbiter, 1 jeg strør salt på, og 1 jeg ikke strør salt på. Videre observerer jeg hvilken isbit som smelter raskest, og noterer meg funnene.
+Hypotese B finner jeg frem noen brusflasker som jeg fyller med ulike mengder vann, f.eks: 1 helt full, 1 nesten full, 1 halvfull osv. hvor jeg så observerer hvor mye vann du kan fryse i flasken før den sprekker.
+For hypotese C vil jeg legge 1 svart og 1 hvit t-skjorte ute i sola, for så å måle temperaturen av klærne med en temperaturmåler.
+
+
+### 1.102
+Hvilke av hypotesene under er naturvitenskapelige, og hvilke er det ikke? Begrunn svarene dine.
+
+A) For å bli god til å spille fotball må man begynne å trene fotball før man er 6-7 år gammel.
+
+B) Livet vårt er styrt av hvordan stjernene og planetene stor plassert på himmelen da vi ble født.
+
+C) Det finnes en gud.
+
+D) En strikk vil trekke seg sammen når den varmes opp.
+
+E) Antibiotika virker mot streptokokkinfeksjoner.
+
+F) Atomer er bygd opp av protoner, nøytroner og elektroner.
+
+#### *Besvarelse*
