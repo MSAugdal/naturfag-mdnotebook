@@ -20,8 +20,7 @@ For å svare på påstand A kan vi motbevise påstanden ved å undersøke et git
 Om vi finner en klasse med uten minst én elev med bursdag den 13. er påstanden motbevist. Det vil å være mulig å regne seg frem til sansynligheten for at det finnes en klasse uten elever med bursdag
 den 13. om sansynligheten for at det er en klasse med én elev med bursdag den 13. er høy nok, kan vi med sikkerhet si at ikke alle klasser har minst én elev med bursdag den 13.
 
-B kan vi finne ut av ved å finne en gruppe mennesker med bursdag den 13, og en gruppe med mennesker som har bursdag andre datoer, og undersøke frekvensen for "ulykke" ved hver av disse gruppene.
-Hvis gruppen med bursdag den 13. har høyere frekvens for "ulykke", kan dette tyde på at det bringer ulykke å ha bursdag den 13.
+B er ikke mulig å motbevise, ettersom "ulykke" ikke en målbart.
 
 ### 1.101
 
@@ -65,3 +64,15 @@ E) Antibiotika virker mot streptokokkinfeksjoner.
 F) Atomer er bygd opp av protoner, nøytroner og elektroner.
 
 #### *Besvarelse*
+A) Dette er naturvitenskapelig, ettersom det er mulig å sette opp eksperimenter for å sjekke om hypotesen stemmer. vi kan for eksempel teste det ved å observere en gruppe på 6-7 år gammels fremgang i fotball, og en gruppe
+med eldre menneskers fremgang i fotball, for så å sammenlikne resultatene.
+
+B) ikke naturvitenskapelig, ettersom den ikke er mulig å motbevise eller bevise.
+
+C) dette er ikke en naturvitenskapelig hypotese, ettersom det ikke er mulig å falsifisere den.
+
+D) Hypotesen er naturvitenskapelig, ettersom det er mulig å falsifisere den eller bekrefte den ved å utføre eksperimenter, hvor vi varmer opp en strikk og sjekker om den trekker seg sammen eller ikke.
+
+E) Denne er naturvitenskapelig ettersom det er mulig falsifisere eller bekrefte den ved å utsette streptokokker til antibiotika, for så å observere om streptokokken overlever eller ikke.
+
+F) naturvitenskapelig hypotese.
